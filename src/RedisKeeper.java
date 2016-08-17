@@ -1,3 +1,6 @@
+import com.lambdaworks.redis.RedisClient;
+import com.lambdaworks.redis.RedisConnection;
+
 /**
  * Created by Kelvin Liu on Jul. 27th, 2016
  */
